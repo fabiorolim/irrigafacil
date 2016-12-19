@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IrrigaFacil</string>
+    <string name="action_settings">Configuração</string>
+    <string name="dialog_title">Configuração</string>
+    <string name="dialog_message">Índice de umidade mínima tolerada</string>
+    <string name="padrao">Padrão 30%</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="umidade">Umidade :</string>
+    <string name="titulo">Leitura dos sensores</string>
+    <string name="sair">Sair</string>
+</resources>
+
